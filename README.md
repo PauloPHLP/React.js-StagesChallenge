@@ -13,7 +13,7 @@ Você deverá reproduzir o mesmo comportamento deste [vídeo](https://drive.goog
 - 👉 &nbsp; Explique a abordagem que você utilizará na implementação utilizando comentários.
 - 👉 &nbsp; Implemente seu código
 
-## Regras
+## Rules
 
 - ⚠️ &nbsp; Utilize o arquivo `data.json` para construir as suas etapas.
 - ⚠️ &nbsp; O `render state` deve estar no componente `Parent`.
@@ -24,6 +24,16 @@ Sugerimos usar o `styled-minimal` nos estilos, uma vez que já tem os recursos n
 
 - 📚 &nbsp; Referência [https://wabi-sabi.surge.sh/](https://wabi-sabi.surge.sh/)
 
-## Bônus
+## Bonus
 - ⏲ &nbsp; Renderizar uma mensagem no componente `Parent` após o término do ciclo com a duração exata...
 - 🧪 &nbsp; Testes
+
+## 🚀️ Technologies
+
+- React.js
+ 
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
